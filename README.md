@@ -1,7 +1,7 @@
 # SlimeTECH
 *Looking for the download link? [**Click here**](Placeholder)*
 
-SlimeTECH is a plugin which aims to turn your Bukkit Server into a modpack without ever installing a single mod. It offers everything you could possibly imagine. From Backpacks to Jetpacks! Slimefun lets every player decide on their own how much they want to dive into Magic or Technology.<br>
+SlimeTECH is a plugin which aims to turn your Bukkit Server into a modpack without ever installing a single mod. It offers everything you could possibly imagine. From Backpacks to Jetpacks! SlimeTECH lets every player decide on their own how much they want to dive into Magic or Technology.<br>
 We got everything from magical wands to nuclear reactors and more.<br>
 We feature a magical altar, an electric power grid with Electricity Meters and even item transport systems.
 
@@ -56,7 +56,7 @@ Stable builds are literally just the least buggy development builds that seemed 
 </details>
 
 ## :framed_picture: Screenshots
-So what does Slimefun look like?<br>
+So what does SlimeTECH look like?<br>
 Well, we haven't been around long enough for screenshots from users to actually come in, so it may be a while:
 |                 Reactors and electricity                  |            Awesome factories             |          Magic and Altars           |
 | :-------------------------------------------: | :--------------------------------------: | :----------------------------------------: |
@@ -124,7 +124,7 @@ These updates can of course be disabled under `/plugins/SlimeTECH/config.yml`. T
 
 ---
 
-Slimefun also uses its own analytics system to collect anonymous information about the performance of this plugin.<br>
+SlimeTECH also uses its own analytics system to collect anonymous information about the performance of this plugin.<br>
 This is solely for statistical purposes, as we are interested in how it's performing for all servers.<br>
 All available data is anonymous and aggregated, at no point can we see individual server information.<br>
 
