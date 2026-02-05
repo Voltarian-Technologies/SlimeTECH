@@ -1,13 +1,12 @@
-# Slimefun 4
-*Looking for the download link? [**Click here**](https://github.com/Slimefun/Slimefun4/blob/master/README.md#floppy_disk-download-slimefun-4)*
+# SlimeTECH 1.0.0
+*Looking for the download link? [**Click here**](None Yet)*
 
-Slimefun is a plugin which aims to turn your Spigot Server into a modpack without ever installing a single mod. It offers everything you could possibly imagine. From Backpacks to Jetpacks! Slimefun lets every player decide on their own how much they want to dive into Magic or Tech.<br>
-We got everything from magical wands to nuclear reactors.<br>
-We feature a magical altar, an electric power grid and even item transport systems.
-
-This project originally started back **in 2013** and has grown ever since.<br>
-From one single person working on this plugin back then, we grew to a community of thousands of players and hundreds of contributors to this project.<br>
-It currently adds over **500 new items and recipes** to Minecraft ([Read more about the history of this project](https://github.com/Slimefun/Slimefun4/wiki/Slimefun-in-a-nutshell)).
+SlimeTech is a plugin which aims to turn your Bukkit Server into a modpack without ever installing a single mod. It offers everything you could possibly imagine. From Magic to Technology! SlimeTECH lets every player decide on their own how much they want to dive into anything with extensive guides on how to do it.<br>
+We got everything from magical wands to nuclear reactors and even more.<br>
+We feature a magical altar, an electric power grid with electricity meters and even item transport systems.
+<br>
+From two people currently working on this plugin, we are working on the greatest fork of Slimefun to ever be created.<br>
+It currently adds over **500 new items and recipes** to Minecraft ([Read more about the history of slimefun](https://github.com/Slimefun/Slimefun4/wiki/Slimefun-in-a-nutshell)).
 
 But it also comes with a lot of addons! Check out our [addons](https://github.com/Slimefun/Slimefun4/wiki/Addons), you may find exactly what you were looking for.
 
